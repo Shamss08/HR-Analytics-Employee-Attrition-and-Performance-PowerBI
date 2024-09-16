@@ -4,6 +4,7 @@ IBM is currently dealing with a significant attrition rate of 16%, affecting 237
 ## Dataset:
 [ibm-hr-analytics-attrition-dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 ## Dashboard:
+## For Interactive Dashboard Visit : [ibm-hr-analytics-attrition-dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzNlMzlkYjctZTM4NC00N2FhLWI5ZDMtODgzNjE5YTI5N2I5IiwidCI6IjJhZDI5ZGJiLThjYzQtNDMxNy04NWVlLTM2Mjk2ZWRkZjI1NSJ9) 
 ### 1. Demographics Overview
 ![image](https://github.com/Shamss08/HR-Analytics-Employee-Attrition-and-Performance-PowerBI/blob/main/Dashboard1.PNG)
 ### 2. Satisfaction&Performance Overview
